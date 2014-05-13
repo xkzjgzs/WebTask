@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="WebTask"
+  id="myeclipse.1399948550914"
+  context-root="/WebTask"
+  j2ee-spec="5.0"
+  archive="WebTask.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
